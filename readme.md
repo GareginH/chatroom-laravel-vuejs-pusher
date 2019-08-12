@@ -1,7 +1,9 @@
 # chatroom-laravel-vuejs-pusher
 Web application for creating real time chat rooms with registered users.
-I made this project just for fun, there is alot of room for new functionality, imagination is the limit.
-
+I made this project just for fun, there is alot of room for new functionality, imagination is the limit.  
+![alt text](https://raw.githubusercontent.com/GareginH/chatroom-laravel-vuejs-pusher/master/Capture.PNG)  
+![alt text](https://raw.githubusercontent.com/GareginH/chatroom-laravel-vuejs-pusher/master/Capture2.PNG)  
+![alt text](https://raw.githubusercontent.com/GareginH/chatroom-laravel-vuejs-pusher/master/Capture3.PNG)  
 How to get this running?
 (I am assuming you are familiar with laravel and have used npm & composer commands before.)
 
